@@ -18,6 +18,4 @@ This can create a triplet.txt, each line contains the query image, positive and 
 
 4. Run test.py.
 
-
-
-![alt text](https://github.com/lynnezixuan/CS341_Reddit/edit/master/Visnet/visnet_cat.png)
+![Result](visnet_cat.pngg)
